@@ -6,9 +6,7 @@ The only thing i think need to be write is about the fact that why we use CANNON
 Simply was the first one that pop in the babylonjs documentation ( i kinda forgot about havok till the 05/02 so.. )
 Will probably update to include havok instead of CANNON because for a method that i realy wish was avaible was the rotateWall didnt know how to work with the CANNON physic so I did it on my own ( take inspiration from a past project for it ) 
 
-future work : I think we will need something to make editing level easier and faster
-
-
+future work : I think we will need something to make editing level easier and faster, need to implements models, mouvements ect
 ## Technical Implementation
 
 ### Core Technologies
