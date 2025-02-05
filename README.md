@@ -1,5 +1,14 @@
 # 3D-game
 
+Why did we implements our project like this ? 
+This is the prototype of a level for the GOW 2025.
+The only things i think need to be write why the use of it, is the fact that we use CANNON instead of havok for our physic motor
+Simply was the first one that pop in the babylonjs documentation ( i kinda forgot about havok till the 05/02 so.. )
+Will probably update to include havok instead of CANNON because for a method that i realy wish was avaible was the rotateWall didnt know how to work with the CANNON physic so I did it on my own ( take inspiration from a past project for it ) 
+
+future work : I think we will need something to make editing level easier and faster
+
+
 ## Technical Implementation
 
 ### Core Technologies
